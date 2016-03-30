@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 1577
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1412
+[ Handoff Success Files ](#handoff-success-list)| 1408
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 165
+[ Ignored Files ](#ignored-list)| 169
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -455,15 +455,11 @@
  [articles\app-service\app-service-deployment-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-deployment-readme.md) | HandedOffSuccess | [Details](#c9883d73b1c5989834e83ba7a2ca793cfd4ef042578)
  [articles\app-service\app-service-environment-auto-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service/app-service-environment-auto-scale.md) | HandedOffSuccess | [Details](#69d0c1a02a5e8961df8947f06a75a4dfe8ac1093579)
  [articles\app-service\app-service-how-works-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-how-works-readme.md) | HandedOffSuccess | [Details](#7baf00cc3cd5f8c78686d7b20f502935e85c85eb580)
- [articles\app-service\app-service-local-cache.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-local-cache.md) | HandedOffSuccess | [Details](#21a18a6b32e445929885e6db10c04945abaae257581)
  [articles\app-service\app-service-release-notes.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service/app-service-release-notes.md) | HandedOffSuccess | [Details](#06f198e5d5cf6bb8981ffda1d66605ae82d9ce59582)
- [articles\app-service\app-service-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service/app-service-scale.md) | HandedOffSuccess | [Details](#8e20ee3c64df3fd85762162f1ca56200f1b1f7de584)
- [articles\app-service\app-service-scale-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-scale-readme.md) | HandedOffSuccess | [Details](#f3280ab1b881262635ce6b561df186bd48c5a41b583)
  [articles\app-service\app-service-security-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-security-readme.md) | HandedOffSuccess | [Details](#de2ec0be5d153075a45bd4f7881c5bb387fb1551585)
  [articles\app-service\app-service-value-prop-what-is.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service/app-service-value-prop-what-is.md) | HandedOffSuccess | [Details](#9eb8114fb7b7f5c49b8a11b2e628b21a522cb22d586)
  [articles\app-service\app-service-webjobs-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-webjobs-readme.md) | HandedOffSuccess | [Details](#8004437ca93e7f6a22ad26c8d68a60889c8bd417587)
  [articles\app-service\azure-web-sites-web-hosting-plans-in-depth-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service/azure-web-sites-web-hosting-plans-in-depth-overview.md) | HandedOffSuccess | [Details](#184891c2c31eaa5fdd0a7477b1dc9a111b79cb39588)
- [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md) | HandedOffSuccess | [Details](#e3dce7811b66d328d1092664b0410605f9a88d1f589)
  [articles\app-service-api\app-service-api-apps-why-best-platform.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service-api/app-service-api-apps-why-best-platform.md) | HandedOffSuccess | [Details](#09e92c8516febbbfc178995779ad2123e7ab72ae434)
  [articles\app-service-api\app-service-api-arm-existing-gateway-provision.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service-api/app-service-api-arm-existing-gateway-provision.md) | HandedOffSuccess | [Details](#89205ba22e6feb1385483e6a6a244b1f867595b9435)
  [articles\app-service-api\app-service-api-arm-new-gateway-provision.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service-api/app-service-api-arm-new-gateway-provision.md) | HandedOffSuccess | [Details](#a42452df07f9388a2be4a15185bdeeff3ba05186436)
@@ -1446,6 +1442,10 @@
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc60)
  [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/.localization-config) | Ignored | [Details](#a45e0f37ac9830b4913152691c5cfa23bc942fbb1)
+ [articles\app-service\app-service-local-cache.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/app-service-local-cache.md) | Ignored | [Details](#b6b54380855fbabc1bef35399f7d1623ac7bcb85581)
+ [articles\app-service\app-service-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/app-service-scale.md) | Ignored | [Details](#546fe629eb4e0855ab369a2bcff58e7bec130cba584)
+ [articles\app-service\app-service-scale-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/app-service-scale-readme.md) | Ignored | [Details](#9b488082eeb4e0f15e82934fcf30316f016eedfc583)
+ [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md) | Ignored | [Details](#d806969f84c9f0307115a9f90c37df067a9de280589)
  [localization.json](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/localization.json) | Ignored | [Details](#1c75f714b30e6a61579231eb84beb9c7df76552a1307)
  [media\drawing.svg](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/media/drawing.svg) | Ignored | [Details](#79cd9853b89adbd61a5c5f4292ace595edd7daab1308)
  [media\SVG-with-Hotspot.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/media/SVG-with-Hotspot.jpg) | Ignored | [Details](#3176573c49dfd02925d59556f177497ccb341ed61309)
@@ -6879,12 +6879,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='21a18a6b32e445929885e6db10c04945abaae257581'></a> Source: [articles\app-service\app-service-local-cache.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-local-cache.md)
-* Status: HandedOffSuccess
+##### <a name='b6b54380855fbabc1bef35399f7d1623ac7bcb85581'></a> Source: [articles\app-service\app-service-local-cache.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/app-service-local-cache.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [app-service-local-cache.f3249101949638713501595600a831f5b09e54eb.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/84e0be0a93df3c27bda88dec4a3bcbfb285b5ac5/ol-handoff/OpenLocalizationOrg/hyperV.pt-br/master/acomdc_nonhi/app-service-local-cache.f3249101949638713501595600a831f5b09e54eb.pt-br.xlf)
-* Handoff Datetime: 2016-03-29 06:27:56
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -6903,24 +6903,24 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8e20ee3c64df3fd85762162f1ca56200f1b1f7de584'></a> Source: [articles\app-service\app-service-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/app-service/app-service-scale.md)
-* Status: HandedOffSuccess
+##### <a name='546fe629eb4e0855ab369a2bcff58e7bec130cba584'></a> Source: [articles\app-service\app-service-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/app-service-scale.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [app-service-scale.aad941ce5b8bb78945b15e0425b731c7f25e1bc7.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c2c981b476d451bea444cb2881da982a7c2fdc1f/ol-handoff/OpenLocalizationOrg/hyperV.pt-br/master/acomdc_nonhi/app-service-scale.aad941ce5b8bb78945b15e0425b731c7f25e1bc7.pt-br.xlf)
-* Handoff Datetime: 2016-03-28 18:04:35
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f3280ab1b881262635ce6b561df186bd48c5a41b583'></a> Source: [articles\app-service\app-service-scale-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c8ca72bbb3543be9ef16a2898293a20e43b99e5d/articles/app-service/app-service-scale-readme.md)
-* Status: HandedOffSuccess
+##### <a name='9b488082eeb4e0f15e82934fcf30316f016eedfc583'></a> Source: [articles\app-service\app-service-scale-readme.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/app-service-scale-readme.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [app-service-scale-readme.50df2d07c0e3987268a0f08b0aea045d682b69c1.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/84e0be0a93df3c27bda88dec4a3bcbfb285b5ac5/ol-handoff/OpenLocalizationOrg/hyperV.pt-br/master/acomdc_nonhi/app-service-scale-readme.50df2d07c0e3987268a0f08b0aea045d682b69c1.pt-br.xlf)
-* Handoff Datetime: 2016-03-29 06:27:56
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -6975,12 +6975,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e3dce7811b66d328d1092664b0410605f9a88d1f589'></a> Source: [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md)
-* Status: HandedOffSuccess
+##### <a name='d806969f84c9f0307115a9f90c37df067a9de280589'></a> Source: [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7507763f855d6ffb7cef8682906f7ed31de29be0/ol-handoff/OpenLocalizationOrg/hyperV.pt-br/master/acomdc_nonhi/test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.pt-br.xlf)
-* Handoff Datetime: 2016-03-30 02:07:59
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 

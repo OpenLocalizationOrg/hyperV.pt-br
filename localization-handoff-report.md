@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/5763cc86328668c3be69ff5f077a3b0f57183074/virtualization/windowscontainers/containers_welcome.md) | HandedOffSuccess | [Details](#234291c4b51a6fd2eeb358df3da281b2323e06863466)
 
 ## Item Details
+##### <a name='234291c4b51a6fd2eeb358df3da281b2323e06863466'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/5763cc86328668c3be69ff5f077a3b0f57183074/virtualization/windowscontainers/containers_welcome.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.pt-br.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/890d61553762c1a5541827a0589504fa61c192b3/ol-handoff/OpenLocalizationOrg/hyperV.pt-br/master/acomdc_nonhi/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.pt-br.xlf)
+* Handoff Datetime: 2016-04-11 23:38:35
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
